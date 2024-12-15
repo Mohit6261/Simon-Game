@@ -1,0 +1,41 @@
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.redorange{
+    background-color: orangered;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.flash{
+    background-color: white;
+}
+
